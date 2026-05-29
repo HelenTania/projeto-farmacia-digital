@@ -1,73 +1,73 @@
-# Projeto Farmácia Digital
 
-## Sistema de Gestão Digital para Farmácias
+# Conecta Farma 💊
+
+## Sistema Digital para Otimização do Atendimento Farmacêutico
 
 ### Projeto Acadêmico de Desenvolvimento Low Code
 
-Este projeto apresenta o desenvolvimento de uma solução tecnológica utilizando plataforma Low Code para otimização do atendimento digital em redes de farmácias.
+## Descrição
 
-## Objetivo
+O Conecta Farma é uma aplicação web desenvolvida com abordagem Low Code com o objetivo de modernizar e otimizar o atendimento digital em farmácias, oferecendo maior agilidade no gerenciamento administrativo e melhor experiência ao usuário.
 
-Desenvolver uma aplicação capaz de automatizar processos de atendimento digital, cadastro de produtos, controle administrativo e gerenciamento operacional.
+## Problema Identificado
 
-## Problema identificado
+O desenvolvimento do projeto surgiu a partir da identificação da lentidão no atendimento via WhatsApp em farmácias, ocasionada pelo alto volume de solicitações e pela necessidade de busca manual de produtos no sistema.
 
-O projeto foi desenvolvido para solucionar a demora no atendimento via WhatsApp em farmácias, causada pelo alto volume de solicitações e pela busca manual de produtos no sistema.
+## Objetivo Geral
 
-## Solução proposta
+Desenvolver uma solução digital capaz de automatizar processos operacionais e administrativos, reduzindo o tempo de resposta e melhorando a eficiência do atendimento.
 
-Criação de um sistema administrativo digital com:
+## Solução Proposta
 
-* autenticação de usuários
-* controle de permissões
-* dashboard administrativo
-* cadastro de produtos
-* gerenciamento de usuários
-* estrutura para controle de estoque
-* base para integração futura com WhatsApp
+A plataforma oferece estrutura para:
 
-## Tecnologias utilizadas
+- autenticação segura de usuários
+- controle de permissões
+- dashboard administrativo
+- cadastro de produtos
+- gerenciamento de usuários
+- organização administrativa
+- integração futura com canais digitais de atendimento
 
-* Lovable
-* Supabase
-* GitHub
+## Tecnologias Utilizadas
 
-## Funcionalidades implementadas
+- Lovable
+- Supabase
+- GitHub
+
+## Funcionalidades Implementadas
 
 ### Autenticação
-
-* login com e-mail e senha
-* recuperação de senha
-* sessão persistente
+- login com e-mail e senha
+- recuperação de senha
+- persistência de sessão
 
 ### Administração
-
-* controle de cargos
-* acesso administrativo
-* gerenciamento de usuários
+- controle de cargos
+- acesso administrativo
+- gerenciamento de usuários
 
 ### Produtos
+- catálogo digital
+- cadastro de produtos
+- estrutura para controle de estoque
 
-* cadastro de produtos
-* estrutura de estoque
-* catálogo digital
-
-## Desafios encontrados
+## Desafios Encontrados
 
 Durante o desenvolvimento foram enfrentados desafios relacionados a:
 
-* permissões administrativas
-* sincronização de autenticação
-* limitações do plano gratuito
-* correções estruturais de acesso
+- configuração de permissões administrativas
+- sincronização de autenticação
+- limitações da versão gratuita da plataforma
+- ajustes estruturais de acesso
 
-## Aplicação publicada
+## Deploy da Aplicação
 
-(Cole aqui o link do seu projeto no Lovable)
+https://zen-pharmacy-pro.lovable.app
 
-## Documentação
+## Relevância do Projeto
 
-A documentação completa está disponível neste repositório.
+A solução busca contribuir para a transformação digital no setor farmacêutico, promovendo maior eficiência operacional e melhoria na comunicação entre estabelecimento e cliente.
 
 ## Desenvolvido por
 
